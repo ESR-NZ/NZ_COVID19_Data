@@ -1,0 +1,876 @@
+ReportDate,DHBName,Confirmed,Probable,Deceased
+2020-02-26,Auckland,1,0,0
+2020-03-16,Auckland,1,0,0
+2020-03-17,Auckland,2,0,0
+2020-03-18,Auckland,1,0,0
+2020-03-19,Auckland,2,2,0
+2020-03-20,Auckland,1,0,0
+2020-03-21,Auckland,4,0,0
+2020-03-22,Auckland,7,1,0
+2020-03-23,Auckland,7,0,0
+2020-03-24,Auckland,7,0,0
+2020-03-25,Auckland,11,0,0
+2020-03-26,Auckland,11,1,0
+2020-03-27,Auckland,6,1,0
+2020-03-28,Auckland,13,2,0
+2020-03-29,Auckland,8,1,0
+2020-03-30,Auckland,2,1,0
+2020-03-31,Auckland,4,4,0
+2020-04-01,Auckland,3,1,0
+2020-04-02,Auckland,3,0,0
+2020-04-03,Auckland,1,2,0
+2020-04-04,Auckland,5,4,0
+2020-04-05,Auckland,4,5,0
+2020-04-06,Auckland,3,3,0
+2020-04-07,Auckland,1,1,0
+2020-04-08,Auckland,3,1,0
+2020-04-09,Auckland,8,3,0
+2020-04-10,Auckland,0,4,0
+2020-04-11,Auckland,1,2,0
+2020-04-12,Auckland,0,3,0
+2020-04-13,Auckland,0,1,0
+2020-04-14,Auckland,0,1,0
+2020-04-16,Auckland,1,1,0
+2020-04-17,Auckland,0,1,0
+2020-04-18,Auckland,0,1,0
+2020-04-21,Auckland,0,1,0
+2020-04-25,Auckland,0,1,0
+2020-04-30,Auckland,2,0,0
+2020-05-01,Auckland,1,1,0
+2020-05-05,Auckland,0,1,0
+2020-05-22,Auckland,1,0,0
+2020-06-19,Auckland,2,0,0
+2020-06-20,Auckland,1,0,0
+2020-06-21,Auckland,2,0,0
+2020-06-22,Auckland,1,0,0
+2020-06-23,Auckland,1,0,0
+2020-06-25,Auckland,1,0,0
+2020-06-26,Auckland,1,0,0
+2020-06-27,Auckland,4,0,0
+2020-06-28,Auckland,1,0,0
+2020-07-01,Auckland,1,0,0
+2020-07-07,Auckland,2,0,0
+2020-07-08,Auckland,1,0,0
+2020-07-19,Auckland,1,0,0
+2020-07-20,Auckland,1,0,0
+2020-08-01,Auckland,1,0,0
+2020-08-04,Auckland,1,0,0
+2020-08-11,Auckland,1,0,0
+2020-08-12,Auckland,1,0,0
+2020-08-13,Auckland,3,0,1
+2020-08-14,Auckland,4,0,0
+2020-08-15,Auckland,5,0,0
+2020-08-16,Auckland,8,0,0
+2020-08-17,Auckland,3,0,0
+2020-08-18,Auckland,5,0,0
+2020-08-20,Auckland,1,0,0
+2020-08-21,Auckland,1,0,0
+2020-08-22,Auckland,1,0,0
+2020-08-23,Auckland,2,0,0
+2020-08-24,Auckland,3,0,0
+2020-08-26,Auckland,3,0,0
+2020-08-28,Auckland,10,0,0
+2020-08-29,Auckland,1,0,0
+2020-08-30,Auckland,3,0,0
+2020-09-02,Auckland,2,0,0
+2020-09-04,Auckland,1,0,0
+2020-09-05,Auckland,2,0,0
+2020-09-08,Auckland,2,0,0
+2020-09-10,Auckland,1,0,0
+2020-09-16,Auckland,4,0,0
+2020-09-18,Auckland,2,0,0
+2020-09-19,Auckland,1,0,0
+2020-09-22,Auckland,3,0,0
+2020-09-23,Auckland,1,0,0
+2020-09-24,Auckland,1,0,0
+2020-09-25,Auckland,1,0,0
+2020-09-26,Auckland,2,0,0
+2020-09-28,Auckland,1,0,0
+2020-09-30,Auckland,4,0,0
+2020-10-01,Auckland,6,0,0
+2020-10-03,Auckland,1,0,0
+2020-10-04,Auckland,1,0,0
+2020-10-05,Auckland,1,0,0
+2020-10-07,Auckland,1,0,0
+2020-10-08,Auckland,2,0,0
+2020-10-15,Auckland,3,0,0
+2020-10-17,Auckland,2,0,0
+2020-10-19,Auckland,1,0,0
+2020-10-20,Auckland,1,0,0
+2020-10-23,Auckland,4,0,0
+2020-10-25,Auckland,1,0,0
+2020-10-27,Auckland,2,0,0
+2020-10-28,Auckland,5,0,0
+2020-10-30,Auckland,1,0,0
+2020-10-31,Auckland,2,0,0
+2020-11-01,Auckland,1,0,0
+2020-11-04,Auckland,2,0,0
+2020-11-05,Auckland,1,0,0
+2020-11-06,Auckland,1,0,0
+2020-11-07,Auckland,4,0,0
+2020-11-08,Auckland,1,0,0
+2020-11-09,Auckland,2,0,0
+2020-11-12,Auckland,3,0,0
+2020-11-13,Auckland,1,0,0
+2020-11-18,Auckland,4,0,0
+2020-11-20,Auckland,2,0,0
+2020-11-21,Auckland,3,0,0
+2020-11-23,Auckland,2,0,0
+2020-11-25,Auckland,1,0,0
+2020-11-26,Auckland,1,0,0
+2020-11-27,Auckland,1,0,0
+2020-11-28,Auckland,2,0,0
+2020-11-30,Auckland,1,0,0
+2020-12-02,Auckland,1,0,0
+2020-12-03,Auckland,2,0,0
+2020-12-04,Auckland,5,0,0
+2020-12-07,Auckland,2,0,0
+2020-12-09,Auckland,1,0,0
+2020-12-11,Auckland,1,0,0
+2020-12-12,Auckland,2,0,0
+2020-12-16,Auckland,1,0,0
+2020-12-17,Auckland,2,0,0
+2020-12-19,Auckland,4,0,0
+2020-12-20,Auckland,3,0,0
+2020-12-21,Auckland,1,0,0
+2020-12-22,Auckland,1,0,0
+2020-12-23,Auckland,2,0,0
+2020-12-24,Auckland,4,0,0
+2020-12-27,Auckland,2,0,0
+2020-12-28,Auckland,3,0,0
+2020-12-30,Auckland,3,0,0
+2020-12-31,Auckland,1,0,0
+2021-01-01,Auckland,4,0,0
+2021-01-02,Auckland,7,0,0
+2021-01-03,Auckland,2,0,0
+2021-01-06,Auckland,1,0,0
+2021-01-07,Auckland,3,0,0
+2021-01-09,Auckland,5,0,0
+2021-01-10,Auckland,2,0,0
+2021-01-12,Auckland,1,0,0
+2021-01-13,Auckland,4,0,0
+2021-01-15,Auckland,2,0,0
+2021-01-16,Auckland,2,0,0
+2021-01-17,Auckland,2,0,0
+2021-01-19,Auckland,1,0,0
+2021-01-21,Auckland,1,0,0
+2021-01-23,Auckland,3,0,0
+2021-01-24,Auckland,4,0,0
+2021-01-25,Auckland,1,0,0
+2021-01-26,Auckland,1,0,0
+2021-01-27,Auckland,1,0,0
+2021-01-28,Auckland,4,0,0
+2021-02-01,Auckland,1,0,0
+2021-02-02,Auckland,1,0,0
+2021-02-03,Auckland,2,0,0
+2021-02-04,Auckland,1,0,0
+2021-02-06,Auckland,1,0,1
+2021-02-09,Auckland,1,0,0
+2021-02-10,Auckland,1,0,0
+2021-02-11,Auckland,1,0,0
+2021-02-12,Auckland,1,0,0
+2021-02-14,Auckland,4,0,0
+2021-02-16,Auckland,1,0,0
+2021-02-22,Auckland,3,0,0
+2021-02-23,Auckland,1,0,0
+2021-02-28,Auckland,1,0,0
+2021-03-01,Auckland,4,0,0
+2021-03-02,Auckland,1,0,0
+2021-03-03,Auckland,6,0,0
+2021-03-05,Auckland,1,0,0
+2021-03-07,Auckland,3,0,0
+2021-03-09,Auckland,1,0,0
+2021-03-10,Auckland,1,0,0
+2021-03-11,Auckland,1,0,0
+2021-03-12,Auckland,2,0,0
+2021-03-13,Auckland,1,0,0
+2021-03-14,Auckland,4,0,0
+2021-03-15,Auckland,1,0,0
+2021-03-16,Auckland,1,0,0
+2021-03-17,Auckland,5,0,0
+2021-03-19,Auckland,4,0,0
+2021-03-20,Auckland,4,0,0
+2021-03-21,Auckland,4,0,0
+2021-03-22,Auckland,3,0,0
+2020-03-21,Bay of Plenty,1,0,0
+2020-03-24,Bay of Plenty,1,2,0
+2020-03-25,Bay of Plenty,2,0,0
+2020-03-26,Bay of Plenty,2,1,0
+2020-03-27,Bay of Plenty,3,0,0
+2020-03-28,Bay of Plenty,2,0,0
+2020-03-30,Bay of Plenty,4,0,0
+2020-03-31,Bay of Plenty,2,1,0
+2020-04-01,Bay of Plenty,6,0,0
+2020-04-02,Bay of Plenty,3,1,0
+2020-04-03,Bay of Plenty,0,1,0
+2020-04-05,Bay of Plenty,1,0,0
+2020-04-06,Bay of Plenty,2,2,0
+2020-04-07,Bay of Plenty,1,0,0
+2020-04-09,Bay of Plenty,0,2,0
+2020-04-10,Bay of Plenty,1,1,0
+2020-04-14,Bay of Plenty,0,3,0
+2020-04-17,Bay of Plenty,1,0,0
+2020-04-19,Bay of Plenty,2,0,0
+2021-01-27,Bay of Plenty,1,0,0
+2020-03-17,Canterbury,1,0,0
+2020-03-18,Canterbury,1,0,0
+2020-03-20,Canterbury,2,0,0
+2020-03-21,Canterbury,3,0,0
+2020-03-22,Canterbury,2,1,0
+2020-03-23,Canterbury,4,2,0
+2020-03-24,Canterbury,7,0,0
+2020-03-25,Canterbury,4,1,0
+2020-03-26,Canterbury,12,2,0
+2020-03-27,Canterbury,2,2,0
+2020-03-28,Canterbury,5,4,0
+2020-03-29,Canterbury,1,1,0
+2020-03-30,Canterbury,1,0,0
+2020-03-31,Canterbury,2,1,0
+2020-04-01,Canterbury,0,2,0
+2020-04-02,Canterbury,4,5,0
+2020-04-03,Canterbury,5,6,0
+2020-04-04,Canterbury,11,6,8
+2020-04-05,Canterbury,1,3,0
+2020-04-06,Canterbury,6,5,0
+2020-04-07,Canterbury,1,3,0
+2020-04-08,Canterbury,1,5,0
+2020-04-09,Canterbury,5,5,0
+2020-04-10,Canterbury,0,2,0
+2020-04-11,Canterbury,0,1,0
+2020-04-12,Canterbury,2,1,0
+2020-04-13,Canterbury,1,0,0
+2020-04-14,Canterbury,1,0,0
+2020-04-15,Canterbury,1,1,0
+2020-04-16,Canterbury,3,0,0
+2020-04-18,Canterbury,2,0,0
+2020-04-19,Canterbury,3,0,0
+2020-04-20,Canterbury,0,1,0
+2020-04-21,Canterbury,0,2,2
+2020-04-22,Canterbury,0,2,1
+2020-04-23,Canterbury,2,0,0
+2020-04-24,Canterbury,1,1,1
+2020-05-01,Canterbury,2,0,0
+2020-05-15,Canterbury,1,0,0
+2020-06-24,Canterbury,2,0,0
+2020-07-05,Canterbury,3,0,0
+2020-07-06,Canterbury,2,0,0
+2020-07-08,Canterbury,1,0,0
+2020-07-09,Canterbury,1,0,0
+2020-07-11,Canterbury,1,0,0
+2020-07-13,Canterbury,1,0,0
+2020-07-14,Canterbury,1,0,0
+2020-07-17,Canterbury,1,0,0
+2020-08-02,Canterbury,1,0,0
+2020-08-25,Canterbury,1,0,0
+2020-08-30,Canterbury,1,0,0
+2020-08-31,Canterbury,5,0,0
+2020-09-02,Canterbury,1,0,0
+2020-09-04,Canterbury,1,0,0
+2020-09-09,Canterbury,2,0,0
+2020-09-12,Canterbury,1,0,0
+2020-09-16,Canterbury,1,0,0
+2020-09-30,Canterbury,1,0,0
+2020-10-02,Canterbury,1,0,0
+2020-10-07,Canterbury,1,0,0
+2020-10-12,Canterbury,1,0,0
+2020-10-14,Canterbury,1,0,0
+2020-10-15,Canterbury,1,0,0
+2020-10-16,Canterbury,1,0,0
+2020-10-20,Canterbury,21,0,0
+2020-10-23,Canterbury,12,0,0
+2020-10-25,Canterbury,3,0,0
+2020-10-29,Canterbury,1,0,0
+2020-11-01,Canterbury,1,0,0
+2020-11-02,Canterbury,1,0,0
+2020-11-03,Canterbury,1,0,0
+2020-11-11,Canterbury,2,0,0
+2020-11-12,Canterbury,1,0,0
+2020-11-18,Canterbury,2,0,0
+2020-11-20,Canterbury,1,0,0
+2020-11-21,Canterbury,1,0,0
+2020-11-23,Canterbury,6,0,0
+2020-11-24,Canterbury,1,0,0
+2020-11-26,Canterbury,6,0,0
+2020-11-27,Canterbury,1,0,0
+2020-11-28,Canterbury,1,0,0
+2020-11-30,Canterbury,3,0,0
+2020-12-01,Canterbury,3,0,0
+2020-12-04,Canterbury,1,0,0
+2020-12-06,Canterbury,1,0,0
+2020-12-09,Canterbury,1,0,0
+2020-12-12,Canterbury,2,0,0
+2020-12-14,Canterbury,4,0,0
+2020-12-18,Canterbury,2,0,0
+2020-12-19,Canterbury,3,0,0
+2020-12-20,Canterbury,1,0,0
+2020-12-21,Canterbury,3,0,0
+2020-12-24,Canterbury,1,0,0
+2020-12-25,Canterbury,2,0,0
+2020-12-27,Canterbury,1,0,0
+2020-12-28,Canterbury,3,0,0
+2020-12-31,Canterbury,1,0,0
+2021-01-07,Canterbury,11,0,0
+2021-01-08,Canterbury,1,0,0
+2021-01-10,Canterbury,6,0,0
+2021-01-11,Canterbury,4,0,0
+2021-01-12,Canterbury,1,0,0
+2021-01-13,Canterbury,3,0,0
+2021-01-15,Canterbury,2,0,0
+2021-01-16,Canterbury,1,0,0
+2021-01-18,Canterbury,1,0,0
+2021-01-20,Canterbury,2,0,0
+2021-01-24,Canterbury,1,0,0
+2021-01-29,Canterbury,1,0,0
+2021-02-02,Canterbury,2,0,0
+2021-02-05,Canterbury,1,0,0
+2021-02-09,Canterbury,1,0,0
+2021-02-10,Canterbury,1,0,0
+2021-02-15,Canterbury,1,0,0
+2021-02-19,Canterbury,3,0,0
+2021-02-20,Canterbury,1,0,0
+2020-03-14,Capital and Coast,1,0,0
+2020-03-16,Capital and Coast,2,0,0
+2020-03-17,Capital and Coast,1,0,0
+2020-03-18,Capital and Coast,1,0,0
+2020-03-19,Capital and Coast,2,0,0
+2020-03-21,Capital and Coast,1,0,0
+2020-03-22,Capital and Coast,5,2,0
+2020-03-23,Capital and Coast,8,1,1
+2020-03-24,Capital and Coast,10,0,0
+2020-03-25,Capital and Coast,4,0,0
+2020-03-26,Capital and Coast,2,1,0
+2020-03-27,Capital and Coast,3,0,0
+2020-03-28,Capital and Coast,5,0,0
+2020-03-29,Capital and Coast,7,1,1
+2020-03-30,Capital and Coast,0,1,0
+2020-03-31,Capital and Coast,2,0,0
+2020-04-01,Capital and Coast,1,2,0
+2020-04-02,Capital and Coast,2,2,0
+2020-04-03,Capital and Coast,3,3,0
+2020-04-04,Capital and Coast,3,3,0
+2020-04-06,Capital and Coast,1,1,0
+2020-04-08,Capital and Coast,3,0,0
+2020-04-09,Capital and Coast,2,0,0
+2020-04-12,Capital and Coast,1,1,0
+2020-04-15,Capital and Coast,0,3,0
+2020-04-16,Capital and Coast,1,0,0
+2020-04-17,Capital and Coast,0,1,0
+2020-04-20,Capital and Coast,0,2,0
+2020-08-31,Capital and Coast,1,0,0
+2020-09-16,Capital and Coast,1,0,0
+2020-10-15,Capital and Coast,1,0,0
+2020-11-11,Capital and Coast,1,0,0
+2021-02-12,Capital and Coast,1,0,0
+2021-02-23,Capital and Coast,1,0,0
+2020-03-04,Counties Manukau,1,0,0
+2020-03-05,Counties Manukau,0,1,0
+2020-03-06,Counties Manukau,1,0,0
+2020-03-12,Counties Manukau,1,0,0
+2020-03-17,Counties Manukau,1,0,0
+2020-03-19,Counties Manukau,1,0,0
+2020-03-21,Counties Manukau,4,0,0
+2020-03-22,Counties Manukau,8,0,0
+2020-03-23,Counties Manukau,1,0,0
+2020-03-24,Counties Manukau,2,0,0
+2020-03-25,Counties Manukau,5,0,0
+2020-03-26,Counties Manukau,3,0,0
+2020-03-27,Counties Manukau,5,1,0
+2020-03-28,Counties Manukau,6,1,0
+2020-03-29,Counties Manukau,4,0,0
+2020-03-30,Counties Manukau,7,2,0
+2020-03-31,Counties Manukau,5,2,0
+2020-04-01,Counties Manukau,5,0,0
+2020-04-02,Counties Manukau,5,1,0
+2020-04-03,Counties Manukau,7,1,0
+2020-04-04,Counties Manukau,3,1,0
+2020-04-05,Counties Manukau,7,3,0
+2020-04-06,Counties Manukau,4,3,0
+2020-04-07,Counties Manukau,1,1,0
+2020-04-08,Counties Manukau,2,0,0
+2020-04-09,Counties Manukau,5,0,0
+2020-04-10,Counties Manukau,1,0,0
+2020-04-11,Counties Manukau,1,0,0
+2020-04-13,Counties Manukau,0,1,0
+2020-04-14,Counties Manukau,4,1,0
+2020-04-16,Counties Manukau,3,0,0
+2020-04-17,Counties Manukau,0,1,0
+2020-04-18,Counties Manukau,2,0,0
+2020-04-19,Counties Manukau,1,0,0
+2020-04-21,Counties Manukau,0,2,0
+2020-04-22,Counties Manukau,1,0,0
+2020-04-24,Counties Manukau,0,1,0
+2020-04-28,Counties Manukau,1,0,0
+2020-04-29,Counties Manukau,1,0,0
+2020-05-03,Counties Manukau,1,0,0
+2020-06-17,Counties Manukau,1,0,0
+2020-06-21,Counties Manukau,1,0,0
+2020-06-22,Counties Manukau,1,0,0
+2020-06-24,Counties Manukau,1,0,0
+2020-06-27,Counties Manukau,1,0,0
+2020-06-29,Counties Manukau,1,0,0
+2020-07-02,Counties Manukau,1,0,0
+2020-07-06,Counties Manukau,1,0,0
+2020-07-09,Counties Manukau,2,0,0
+2020-07-14,Counties Manukau,2,0,0
+2020-07-16,Counties Manukau,1,0,0
+2020-07-17,Counties Manukau,1,0,0
+2020-07-18,Counties Manukau,2,0,0
+2020-07-24,Counties Manukau,1,0,0
+2020-07-27,Counties Manukau,2,0,0
+2020-07-28,Counties Manukau,1,0,0
+2020-07-29,Counties Manukau,1,0,0
+2020-07-31,Counties Manukau,2,0,0
+2020-08-01,Counties Manukau,1,0,0
+2020-08-02,Counties Manukau,2,0,0
+2020-08-04,Counties Manukau,1,0,0
+2020-08-11,Counties Manukau,4,0,0
+2020-08-12,Counties Manukau,10,0,1
+2020-08-13,Counties Manukau,7,0,0
+2020-08-14,Counties Manukau,1,0,0
+2020-08-15,Counties Manukau,6,0,0
+2020-08-16,Counties Manukau,4,0,0
+2020-08-17,Counties Manukau,6,0,0
+2020-08-18,Counties Manukau,5,0,0
+2020-08-19,Counties Manukau,1,0,0
+2020-08-20,Counties Manukau,5,0,0
+2020-08-21,Counties Manukau,4,1,0
+2020-08-22,Counties Manukau,1,0,0
+2020-08-23,Counties Manukau,5,0,0
+2020-08-24,Counties Manukau,2,0,0
+2020-08-25,Counties Manukau,1,0,0
+2020-08-27,Counties Manukau,1,0,0
+2020-08-28,Counties Manukau,5,0,0
+2020-08-29,Counties Manukau,2,0,0
+2020-08-30,Counties Manukau,1,0,0
+2020-08-31,Counties Manukau,7,0,0
+2020-09-01,Counties Manukau,6,0,0
+2020-09-02,Counties Manukau,1,0,0
+2020-09-03,Counties Manukau,3,0,0
+2020-09-04,Counties Manukau,2,0,0
+2020-09-06,Counties Manukau,1,0,0
+2020-09-07,Counties Manukau,2,0,0
+2020-09-08,Counties Manukau,1,0,0
+2020-09-10,Counties Manukau,1,0,0
+2020-09-13,Counties Manukau,1,0,0
+2020-09-14,Counties Manukau,4,0,0
+2020-09-16,Counties Manukau,1,0,0
+2020-09-18,Counties Manukau,1,0,0
+2020-09-19,Counties Manukau,2,0,0
+2020-09-21,Counties Manukau,1,0,0
+2020-09-23,Counties Manukau,2,0,0
+2020-09-27,Counties Manukau,2,0,0
+2020-09-30,Counties Manukau,1,0,0
+2020-10-02,Counties Manukau,1,0,0
+2020-10-03,Counties Manukau,3,0,0
+2020-10-04,Counties Manukau,1,0,0
+2020-10-05,Counties Manukau,2,0,0
+2020-10-06,Counties Manukau,2,0,0
+2020-10-07,Counties Manukau,1,0,0
+2020-10-08,Counties Manukau,1,0,0
+2020-10-09,Counties Manukau,4,0,0
+2020-10-11,Counties Manukau,2,0,0
+2020-10-13,Counties Manukau,2,0,0
+2020-10-17,Counties Manukau,1,0,0
+2020-10-18,Counties Manukau,1,0,0
+2020-10-21,Counties Manukau,3,0,0
+2020-10-22,Counties Manukau,2,0,0
+2020-10-23,Counties Manukau,2,0,0
+2020-10-26,Counties Manukau,1,0,0
+2020-10-27,Counties Manukau,1,0,0
+2020-10-28,Counties Manukau,1,0,0
+2020-10-30,Counties Manukau,5,0,0
+2020-10-31,Counties Manukau,2,0,0
+2020-11-01,Counties Manukau,1,0,0
+2020-11-02,Counties Manukau,4,0,0
+2020-11-04,Counties Manukau,1,0,0
+2020-11-07,Counties Manukau,1,0,0
+2020-11-09,Counties Manukau,2,0,0
+2020-11-10,Counties Manukau,1,0,0
+2020-11-13,Counties Manukau,2,0,0
+2020-11-14,Counties Manukau,3,0,0
+2020-11-15,Counties Manukau,1,0,0
+2020-11-16,Counties Manukau,3,0,0
+2020-11-17,Counties Manukau,1,0,0
+2020-11-18,Counties Manukau,1,0,0
+2020-11-19,Counties Manukau,1,0,0
+2020-11-20,Counties Manukau,1,0,0
+2020-11-21,Counties Manukau,2,0,0
+2020-11-22,Counties Manukau,2,0,0
+2020-11-23,Counties Manukau,1,0,0
+2020-11-24,Counties Manukau,2,0,0
+2020-11-27,Counties Manukau,1,0,0
+2020-11-28,Counties Manukau,1,0,0
+2020-11-29,Counties Manukau,3,0,0
+2020-11-30,Counties Manukau,1,0,0
+2020-12-03,Counties Manukau,1,0,0
+2020-12-04,Counties Manukau,3,0,0
+2020-12-06,Counties Manukau,1,0,0
+2020-12-07,Counties Manukau,3,0,0
+2020-12-08,Counties Manukau,2,0,0
+2020-12-10,Counties Manukau,3,0,0
+2020-12-12,Counties Manukau,1,0,0
+2020-12-16,Counties Manukau,3,0,0
+2020-12-17,Counties Manukau,2,0,0
+2020-12-22,Counties Manukau,1,0,0
+2020-12-24,Counties Manukau,1,0,0
+2020-12-26,Counties Manukau,3,0,0
+2020-12-29,Counties Manukau,4,0,0
+2020-12-30,Counties Manukau,4,0,0
+2020-12-31,Counties Manukau,1,0,0
+2021-01-02,Counties Manukau,1,0,0
+2021-01-03,Counties Manukau,1,0,0
+2021-01-04,Counties Manukau,1,0,0
+2021-01-05,Counties Manukau,1,0,0
+2021-01-06,Counties Manukau,1,0,0
+2021-01-07,Counties Manukau,4,0,0
+2021-01-08,Counties Manukau,2,0,0
+2021-01-09,Counties Manukau,3,0,0
+2021-01-10,Counties Manukau,1,0,0
+2021-01-11,Counties Manukau,2,0,0
+2021-01-13,Counties Manukau,1,0,0
+2021-01-14,Counties Manukau,6,0,0
+2021-01-15,Counties Manukau,2,0,0
+2021-01-16,Counties Manukau,2,0,0
+2021-01-18,Counties Manukau,1,0,0
+2021-01-19,Counties Manukau,1,0,0
+2021-01-20,Counties Manukau,2,0,0
+2021-01-21,Counties Manukau,3,0,0
+2021-01-22,Counties Manukau,3,0,0
+2021-01-23,Counties Manukau,2,0,0
+2021-01-24,Counties Manukau,1,0,0
+2021-01-25,Counties Manukau,1,0,0
+2021-01-27,Counties Manukau,2,0,0
+2021-01-28,Counties Manukau,1,0,0
+2021-01-29,Counties Manukau,1,0,0
+2021-02-02,Counties Manukau,1,0,0
+2021-02-03,Counties Manukau,1,0,0
+2021-02-04,Counties Manukau,2,0,0
+2021-02-06,Counties Manukau,1,0,0
+2021-02-08,Counties Manukau,1,0,0
+2021-02-12,Counties Manukau,2,0,0
+2021-02-13,Counties Manukau,2,0,0
+2021-02-14,Counties Manukau,1,0,0
+2021-02-16,Counties Manukau,1,0,0
+2021-02-17,Counties Manukau,5,0,0
+2021-02-19,Counties Manukau,4,0,0
+2021-02-20,Counties Manukau,1,0,0
+2021-02-21,Counties Manukau,1,0,0
+2021-02-22,Counties Manukau,2,0,0
+2021-02-23,Counties Manukau,5,0,0
+2021-02-24,Counties Manukau,2,0,0
+2021-02-25,Counties Manukau,1,0,0
+2021-02-26,Counties Manukau,1,0,0
+2021-02-27,Counties Manukau,4,0,0
+2021-02-28,Counties Manukau,2,0,0
+2021-03-05,Counties Manukau,8,0,0
+2021-03-06,Counties Manukau,1,0,0
+2021-03-07,Counties Manukau,3,0,0
+2021-03-08,Counties Manukau,3,0,0
+2021-03-10,Counties Manukau,5,0,0
+2021-03-12,Counties Manukau,1,0,0
+2021-03-14,Counties Manukau,3,0,0
+2021-03-16,Counties Manukau,1,0,0
+2021-03-17,Counties Manukau,2,0,0
+2021-03-18,Counties Manukau,1,0,0
+2021-03-19,Counties Manukau,1,0,0
+2021-03-20,Counties Manukau,1,0,0
+2021-03-21,Counties Manukau,1,0,0
+2020-03-19,Hawke's Bay,1,0,0
+2020-03-24,Hawke's Bay,2,0,0
+2020-03-25,Hawke's Bay,3,0,0
+2020-03-26,Hawke's Bay,4,0,0
+2020-03-27,Hawke's Bay,1,0,0
+2020-03-28,Hawke's Bay,1,0,0
+2020-03-30,Hawke's Bay,3,0,0
+2020-04-01,Hawke's Bay,4,0,0
+2020-04-02,Hawke's Bay,2,3,0
+2020-04-03,Hawke's Bay,5,0,0
+2020-04-05,Hawke's Bay,3,1,0
+2020-04-06,Hawke's Bay,1,0,0
+2020-04-07,Hawke's Bay,1,0,0
+2020-04-08,Hawke's Bay,1,0,0
+2020-04-09,Hawke's Bay,1,1,0
+2020-04-10,Hawke's Bay,0,1,0
+2020-04-12,Hawke's Bay,2,0,0
+2020-04-22,Hawke's Bay,1,0,0
+2020-04-26,Hawke's Bay,1,0,0
+2020-04-27,Hawke's Bay,1,0,0
+2020-03-19,Hutt Valley,2,0,0
+2020-03-22,Hutt Valley,1,0,0
+2020-03-23,Hutt Valley,1,1,0
+2020-03-25,Hutt Valley,1,0,0
+2020-03-26,Hutt Valley,4,0,0
+2020-03-27,Hutt Valley,3,0,0
+2020-03-31,Hutt Valley,1,0,0
+2020-04-02,Hutt Valley,4,0,0
+2020-04-03,Hutt Valley,0,1,0
+2020-04-05,Hutt Valley,0,1,0
+2020-06-16,Hutt Valley,2,0,0
+2020-11-07,Hutt Valley,1,0,0
+2020-11-18,Hutt Valley,1,0,0
+2021-03-07,Hutt Valley,1,0,0
+2020-03-17,Lakes,1,0,0
+2020-03-20,Lakes,1,0,0
+2020-03-23,Lakes,1,0,0
+2020-03-24,Lakes,1,0,0
+2020-03-25,Lakes,3,0,0
+2020-03-26,Lakes,1,0,0
+2020-03-28,Lakes,1,0,0
+2020-03-30,Lakes,2,0,0
+2020-04-04,Lakes,1,0,0
+2020-04-10,Lakes,0,1,0
+2020-04-12,Lakes,2,0,0
+2020-04-17,Lakes,1,0,0
+2020-03-19,MidCentral,3,0,0
+2020-03-21,MidCentral,1,0,0
+2020-03-23,MidCentral,1,0,0
+2020-03-24,MidCentral,1,0,0
+2020-03-25,MidCentral,1,1,0
+2020-03-27,MidCentral,2,0,0
+2020-03-28,MidCentral,1,0,0
+2020-03-29,MidCentral,1,1,0
+2020-03-30,MidCentral,1,0,0
+2020-03-31,MidCentral,4,0,0
+2020-04-01,MidCentral,1,0,0
+2020-04-02,MidCentral,1,0,0
+2020-04-04,MidCentral,2,1,0
+2020-04-05,MidCentral,2,1,0
+2020-04-06,MidCentral,2,0,0
+2020-04-15,MidCentral,0,1,0
+2020-04-17,MidCentral,2,0,0
+2020-05-09,MidCentral,1,0,0
+2020-03-20,Nelson Marlborough,2,0,0
+2020-03-21,Nelson Marlborough,2,0,0
+2020-03-22,Nelson Marlborough,5,0,0
+2020-03-23,Nelson Marlborough,2,0,0
+2020-03-24,Nelson Marlborough,3,1,0
+2020-03-25,Nelson Marlborough,4,0,0
+2020-03-28,Nelson Marlborough,1,0,0
+2020-03-29,Nelson Marlborough,1,0,0
+2020-03-30,Nelson Marlborough,1,1,0
+2020-03-31,Nelson Marlborough,2,0,0
+2020-04-01,Nelson Marlborough,3,1,0
+2020-04-02,Nelson Marlborough,3,0,0
+2020-04-03,Nelson Marlborough,1,1,0
+2020-04-04,Nelson Marlborough,3,2,0
+2020-04-05,Nelson Marlborough,2,3,0
+2020-04-06,Nelson Marlborough,1,1,0
+2020-04-07,Nelson Marlborough,0,2,0
+2020-04-29,Nelson Marlborough,1,0,0
+2020-10-31,Nelson Marlborough,1,0,0
+2020-03-17,Northland,1,0,0
+2020-03-22,Northland,1,0,0
+2020-03-24,Northland,2,0,0
+2020-03-25,Northland,2,0,0
+2020-03-26,Northland,1,1,0
+2020-03-29,Northland,2,0,0
+2020-03-30,Northland,1,0,0
+2020-03-31,Northland,1,0,0
+2020-04-01,Northland,1,0,0
+2020-04-02,Northland,1,0,0
+2020-04-03,Northland,2,0,0
+2020-04-04,Northland,1,0,0
+2020-04-05,Northland,2,0,0
+2020-04-06,Northland,1,0,0
+2020-04-07,Northland,2,0,0
+2020-04-09,Northland,0,1,0
+2020-04-10,Northland,2,0,0
+2020-04-11,Northland,1,0,0
+2020-04-13,Northland,1,0,0
+2020-04-16,Northland,1,0,0
+2021-01-23,Northland,1,0,0
+2020-03-23,South Canterbury,2,0,0
+2020-03-27,South Canterbury,4,0,0
+2020-03-28,South Canterbury,1,0,0
+2020-03-29,South Canterbury,1,1,0
+2020-03-30,South Canterbury,1,0,0
+2020-04-08,South Canterbury,1,0,0
+2020-04-11,South Canterbury,1,0,0
+2020-04-14,South Canterbury,1,0,0
+2020-04-15,South Canterbury,1,0,0
+2020-04-17,South Canterbury,1,0,0
+2020-04-19,South Canterbury,1,0,0
+2020-04-25,South Canterbury,0,1,0
+2020-03-13,Southern,1,0,0
+2020-03-17,Southern,2,1,0
+2020-03-18,Southern,2,0,0
+2020-03-19,Southern,1,0,0
+2020-03-20,Southern,2,0,0
+2020-03-22,Southern,2,0,0
+2020-03-23,Southern,4,0,0
+2020-03-24,Southern,7,0,0
+2020-03-25,Southern,9,0,0
+2020-03-26,Southern,7,0,0
+2020-03-27,Southern,19,0,0
+2020-03-28,Southern,13,0,0
+2020-03-29,Southern,12,0,0
+2020-03-30,Southern,9,0,0
+2020-03-31,Southern,7,2,0
+2020-04-01,Southern,15,1,0
+2020-04-02,Southern,17,1,1
+2020-04-03,Southern,14,1,0
+2020-04-04,Southern,9,1,0
+2020-04-05,Southern,14,3,1
+2020-04-06,Southern,8,0,0
+2020-04-07,Southern,7,2,0
+2020-04-08,Southern,2,1,0
+2020-04-09,Southern,2,2,0
+2020-04-10,Southern,0,5,0
+2020-04-12,Southern,0,4,0
+2020-04-13,Southern,0,1,0
+2020-04-14,Southern,0,2,0
+2020-04-15,Southern,1,0,0
+2020-04-16,Southern,0,1,0
+2020-04-17,Southern,0,2,0
+2021-03-19,Southern,0,0,0
+2020-03-26,Tairawhiti,1,0,0
+2020-04-11,Tairawhiti,0,1,0
+2020-04-14,Tairawhiti,2,0,0
+2020-03-16,Taranaki,2,0,0
+2020-03-21,Taranaki,2,0,0
+2020-03-25,Taranaki,1,0,0
+2020-03-26,Taranaki,1,1,0
+2020-03-27,Taranaki,5,0,0
+2020-03-30,Taranaki,1,0,0
+2020-04-01,Taranaki,1,0,0
+2020-04-25,Taranaki,1,0,0
+2020-04-26,Taranaki,0,1,0
+2020-03-16,Waikato,2,0,0
+2020-03-19,Waikato,2,0,0
+2020-03-20,Waikato,1,0,0
+2020-03-21,Waikato,3,0,0
+2020-03-22,Waikato,2,1,0
+2020-03-23,Waikato,4,0,0
+2020-03-24,Waikato,2,0,0
+2020-03-25,Waikato,20,1,0
+2020-03-26,Waikato,10,0,0
+2020-03-27,Waikato,11,0,0
+2020-03-28,Waikato,3,0,0
+2020-03-29,Waikato,16,0,0
+2020-03-30,Waikato,5,0,0
+2020-03-31,Waikato,24,0,0
+2020-04-01,Waikato,8,1,0
+2020-04-02,Waikato,7,1,0
+2020-04-03,Waikato,11,2,0
+2020-04-04,Waikato,4,2,1
+2020-04-05,Waikato,3,1,0
+2020-04-06,Waikato,2,5,0
+2020-04-07,Waikato,3,2,0
+2020-04-08,Waikato,0,3,0
+2020-04-09,Waikato,3,0,0
+2020-04-10,Waikato,0,2,0
+2020-04-11,Waikato,4,5,0
+2020-04-14,Waikato,0,1,0
+2020-04-15,Waikato,0,2,0
+2020-04-16,Waikato,0,1,0
+2020-04-18,Waikato,0,1,0
+2020-04-19,Waikato,0,1,0
+2020-04-21,Waikato,1,0,0
+2020-04-22,Waikato,0,1,0
+2020-04-23,Waikato,0,1,0
+2020-05-06,Waikato,1,0,0
+2020-05-10,Waikato,1,0,0
+2020-08-19,Waikato,1,0,1
+2020-09-14,Waikato,1,0,0
+2020-09-16,Waikato,0,5,0
+2021-01-01,Waikato,2,0,0
+2021-01-05,Waikato,1,0,0
+2021-01-08,Waikato,1,0,0
+2021-02-05,Waikato,1,0,0
+2021-03-20,Waikato,1,0,0
+2020-03-19,Wairarapa,1,0,0
+2020-03-21,Wairarapa,2,0,0
+2020-03-24,Wairarapa,2,0,0
+2020-03-31,Wairarapa,1,0,0
+2020-04-02,Wairarapa,0,2,0
+2020-03-02,Waitemata,1,0,0
+2020-03-04,Waitemata,1,0,0
+2020-03-05,Waitemata,0,1,0
+2020-03-15,Waitemata,1,0,0
+2020-03-17,Waitemata,2,0,0
+2020-03-19,Waitemata,1,0,0
+2020-03-20,Waitemata,2,0,0
+2020-03-21,Waitemata,1,0,0
+2020-03-22,Waitemata,5,0,0
+2020-03-23,Waitemata,2,0,0
+2020-03-24,Waitemata,8,0,0
+2020-03-25,Waitemata,10,1,0
+2020-03-26,Waitemata,8,3,0
+2020-03-27,Waitemata,2,2,0
+2020-03-28,Waitemata,13,0,0
+2020-03-29,Waitemata,14,2,0
+2020-03-30,Waitemata,6,3,0
+2020-03-31,Waitemata,9,3,0
+2020-04-01,Waitemata,9,5,0
+2020-04-02,Waitemata,5,7,0
+2020-04-03,Waitemata,6,2,0
+2020-04-04,Waitemata,5,10,0
+2020-04-05,Waitemata,5,4,0
+2020-04-06,Waitemata,0,2,0
+2020-04-07,Waitemata,7,2,0
+2020-04-08,Waitemata,4,1,0
+2020-04-09,Waitemata,4,0,0
+2020-04-10,Waitemata,4,3,1
+2020-04-11,Waitemata,5,3,0
+2020-04-12,Waitemata,4,0,0
+2020-04-13,Waitemata,1,5,0
+2020-04-15,Waitemata,1,0,1
+2020-04-16,Waitemata,4,1,2
+2020-04-17,Waitemata,0,1,0
+2020-04-18,Waitemata,1,3,0
+2020-04-19,Waitemata,0,1,0
+2020-04-23,Waitemata,1,1,0
+2020-04-24,Waitemata,3,0,0
+2020-04-25,Waitemata,0,3,0
+2020-04-26,Waitemata,1,0,0
+2020-04-27,Waitemata,2,0,0
+2020-04-30,Waitemata,1,0,0
+2020-05-01,Waitemata,1,1,0
+2020-05-05,Waitemata,1,0,0
+2020-05-06,Waitemata,1,0,0
+2020-05-07,Waitemata,1,0,0
+2020-05-08,Waitemata,0,1,0
+2020-05-10,Waitemata,2,0,0
+2020-05-14,Waitemata,1,0,0
+2020-08-12,Waitemata,4,0,0
+2020-08-13,Waitemata,2,0,0
+2020-08-15,Waitemata,3,0,0
+2020-08-18,Waitemata,1,0,0
+2020-08-19,Waitemata,3,0,0
+2020-08-20,Waitemata,1,0,0
+2020-08-21,Waitemata,1,0,0
+2020-08-22,Waitemata,2,0,0
+2020-08-23,Waitemata,1,0,0
+2020-08-24,Waitemata,2,0,0
+2020-08-25,Waitemata,2,0,0
+2020-08-26,Waitemata,4,0,0
+2020-08-27,Waitemata,5,0,0
+2020-08-28,Waitemata,3,0,0
+2020-08-29,Waitemata,1,0,0
+2020-08-30,Waitemata,0,0,0
+2020-08-31,Waitemata,1,0,0
+2020-09-02,Waitemata,1,0,0
+2020-09-04,Waitemata,1,0,0
+2020-09-05,Waitemata,5,0,0
+2020-09-06,Waitemata,2,0,0
+2020-09-07,Waitemata,4,0,0
+2020-09-08,Waitemata,3,0,0
+2020-09-09,Waitemata,1,0,0
+2020-09-11,Waitemata,2,0,0
+2020-09-12,Waitemata,1,0,0
+2020-09-24,Waitemata,1,0,0
+2020-10-17,Waitemata,1,0,0
+2020-10-21,Waitemata,1,0,0
+2020-10-22,Waitemata,1,0,0
+2021-01-27,Waitemata,2,0,0
+2021-02-04,Waitemata,1,0,0
+2021-03-10,Waitemata,2,0,0
+2020-03-22,West Coast,1,0,0
+2020-03-26,West Coast,2,0,1
+2020-04-01,West Coast,1,0,0
+2020-04-05,West Coast,0,1,0
+2020-03-27,Whanganui,3,0,0
+2020-04-01,Whanganui,2,0,0
+2020-04-02,Whanganui,2,0,0
+2020-04-17,Whanganui,1,0,0
+2020-04-19,Whanganui,0,1,0
